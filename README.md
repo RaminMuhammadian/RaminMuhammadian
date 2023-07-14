@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub 👨‍💻❤️</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=raminmuhammadian&label=Profile%20views&color=0e75b6&style=flat" alt="raminmuhammadian" /> </p>
 
 
 <h3 align="center">Languages and Tools:</h3>
